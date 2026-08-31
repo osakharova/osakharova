@@ -18,7 +18,7 @@ Hello here, thank you for attention, let me briefly introduce myself.
 
 <h2>My current hobbies are:</h2>
 <ol>
-<li>Frontend </li>
+<li> Solid Works, Frontend </li>
 <li>photography </li>
 <li>blogging</li>
 <li>reading </li>
