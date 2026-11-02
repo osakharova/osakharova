@@ -13,7 +13,7 @@
    src="http://saharova.com/wp-content/uploads/2026/11/osakharova_26-1.jpg">
 
 <p>
-Hello here, let me briefly introduce myself. \r Thank you for attention. 
+Hello here, let me briefly introduce myself.  Thank you for attention. 
 </p>
 <h2>My current hobbies are:</h2>
 <ol>
