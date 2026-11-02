@@ -9,27 +9,23 @@
 
 <!-- about myself -->
 <h1>Oksana Sakharova</h1>
-<!--img alt="The picture of Oksana Sakharova" width=300
-   src="http://saharova.com/wp-content/uploads/2022/12/os-luna-gutenberg_201022.jpg"-->
 <img alt="The picture of Oksana Sakharova" width=300
    src="http://saharova.com/wp-content/uploads/2026/11/osakharova_26-1.jpg">
-
-   
 
 <p>
 Hello here, thank you for attention, let me briefly introduce myself.
 </p>
-
 <h2>My current hobbies are:</h2>
 <ol>
-<li> Solid Works, Frontend </li>
-<li>photography </li>
-<li>blogging</li>
-<li>reading </li>
-<li>digital marketing</li>
-<li>movies seeing </li>
-<li>music </li>
-<li>walking</li>
+  
+<li> Solid Works, py - automated</li>
+<li> Intellectual Property (IP) in Engineering and Media </li>
+<li> SLR camera - photography </li>
+<li>Audiobooks & Print Books</li>
+<li>blogging, with little help of js, css</li>
+<li>movies </li>
+<li>landscape design </li>
+<li>hiking</li>
 </ol>
 <p>
 Come visit me at Linkedin : <a href = "https://www.linkedin.com/in/oksana-sakharova-83b29320/">@Oksana Sakharova</a>
