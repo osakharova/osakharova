@@ -9,8 +9,12 @@
 
 <!-- about myself -->
 <h1>Oksana Sakharova</h1>
+<!--img alt="The picture of Oksana Sakharova" width=300
+   src="http://saharova.com/wp-content/uploads/2022/12/os-luna-gutenberg_201022.jpg"-->
 <img alt="The picture of Oksana Sakharova" width=300
-   src="http://saharova.com/wp-content/uploads/2022/12/os-luna-gutenberg_201022.jpg">
+   src="http://saharova.com/wp-content/uploads/2026/11/osakharova_26-1.jpg">
+
+   
 
 <p>
 Hello here, thank you for attention, let me briefly introduce myself.
